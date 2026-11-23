@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 45
     env:
-      PICKER_LLM: Qwen/Qwen2.5-1.5B-Instruct   # free, Apache-2.0, no token needed
+      PICKER_LLM: Qwen/Qwen2.5-3B-Instruct   # free, no token needed
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
