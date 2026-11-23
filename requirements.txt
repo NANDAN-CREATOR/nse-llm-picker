@@ -1,0 +1,9 @@
+pandas
+numpy
+requests
+yfinance
+openpyxl
+# LLM news reader (skip with --no-llm)
+transformers
+torch
+accelerate
