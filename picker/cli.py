@@ -1,4 +1,4 @@
-"""python -m picker pick | evaluate | report | export | show"""
+"""python -m picker pick | evaluate | report | export | card | show"""
 from __future__ import annotations
 
 import argparse
@@ -9,6 +9,7 @@ from functools import partial
 from . import config as C
 from .data import fetch_history, fetch_ohlc
 from .evaluate import evaluate, scorecard
+from .card import write_card
 from .export import write_latest
 from .llm import NewsScorer
 from .news import fetch_headlines
@@ -28,7 +29,7 @@ def load_universe(path=None, only=None):
 
 def main(argv=None):
     ap = argparse.ArgumentParser(prog="picker", description=__doc__)
-    ap.add_argument("command", choices=["pick", "evaluate", "report", "export", "show"])
+    ap.add_argument("command", choices=["pick", "evaluate", "report", "export", "card", "show"])
     ap.add_argument("--exchange", choices=["NSE", "BSE"], default="NSE")
     ap.add_argument("--no-llm", action="store_true", help="use the keyword fallback instead of Llama")
     ap.add_argument("--model", help="Hugging Face model id (default from config / PICKER_LLM)")
@@ -60,6 +61,8 @@ def main(argv=None):
         print("Wrote", build_report(store, a.out))
     elif a.command == "export":
         print("Wrote", write_latest(store))
+    elif a.command == "card":
+        print("Wrote", write_card())
     elif a.command == "show":
         print(_fmt_score(scorecard(store.frame())))
 
