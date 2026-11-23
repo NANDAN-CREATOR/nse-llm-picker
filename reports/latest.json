@@ -1,0 +1,247 @@
+{
+  "generated_at": "2026-11-23T23:52:26.517733+05:30",
+  "target_date": "2026-11-25",
+  "picks": [
+    {
+      "rank": 1,
+      "symbol": "AXISBANK",
+      "name": "Axis Bank",
+      "exchange": "NSE",
+      "ref_close": 1388.6,
+      "exp_ret_pct": 0.928,
+      "exp_close": 1401.49,
+      "target_price": 1407.17,
+      "stop_price": 1370.03,
+      "p_up": 0.708,
+      "quant_score": 0.557,
+      "news_score": 0.9,
+      "combined": 0.6942,
+      "catalyst": "macro",
+      "news_summary": "Macro-economic factors may impact Axis Bank's performance.",
+      "news_engine": "Qwen/Qwen2.5-1.5B-Instruct",
+      "atr_pct": 2.675,
+      "headlines": [
+        {
+          "title": "Broad-Based Technical Strength Lifts Axis Bank Ltd. to 52-Week High of Rs 1457.15 - MarketsMojo",
+          "source": "MarketsMojo",
+          "published": "2026-11-23T16:17:51+00:00"
+        },
+        {
+          "title": "Market wrap: TCS, Shriram Finance, Tata Steel, Axis Bank top gainers and losers on Nifty and Sensex on Mon - The Economic Times",
+          "source": "The Economic Times",
+          "published": "2026-11-23T12:01:28+00:00"
+        },
+        {
+          "title": "Manic Monday for Bank Nifty as index crashes over 2000 points \u2014 Check worst hit shares and reasons behind mega plunge - Livemint",
+          "source": "Livemint",
+          "published": "2026-11-23T11:23:29+00:00"
+        },
+        {
+          "title": "Top gainers and losers, Nov 23: Tata Steel tumbles over 8%, Axis Bank falls 4%, TCS jumps 3%; check list - Upstox",
+          "source": "Upstox",
+          "published": "2026-11-23T10:57:27+00:00"
+        },
+        {
+          "title": "Top Gainers & Losers Today, November 23, 2026 at 3:30 PM IST - HDFC Sky",
+          "source": "HDFC Sky",
+          "published": "2026-11-23T10:45:42+00:00"
+        }
+      ],
+      "low_conviction": false
+    },
+    {
+      "rank": 2,
+      "symbol": "KOTAKBANK",
+      "name": "Kotak Mahindra Bank",
+      "exchange": "NSE",
+      "ref_close": 502.85,
+      "exp_ret_pct": 0.774,
+      "exp_close": 506.74,
+      "target_price": 508.7,
+      "stop_price": 497.0,
+      "p_up": 0.7,
+      "quant_score": 0.6421,
+      "news_score": 0.7,
+      "combined": 0.6652,
+      "catalyst": "stock market crash",
+      "news_summary": "The stock is expected to experience a slight positive movement due to the recent market crash.",
+      "news_engine": "Qwen/Qwen2.5-1.5B-Instruct",
+      "atr_pct": 2.327,
+      "headlines": [
+        {
+          "title": "Sensex plunges nearly 1,484 pts in worst single-day fall in over 4 months; Nifty below 25,350 - Eastern Mirror",
+          "source": "Eastern Mirror",
+          "published": "2026-11-23T13:12:20+00:00"
+        },
+        {
+          "title": "Stock investors' wealth erodes by Rs 5.19 lakh cr as markets crash - Mathrubhumi English",
+          "source": "Mathrubhumi English",
+          "published": "2026-11-23T12:32:52+00:00"
+        },
+        {
+          "title": "Adani Green Energy, TCS and HCL Tech among 15 stocks trimmed by mutual funds in October 2026 - The Economic Times",
+          "source": "The Economic Times",
+          "published": "2026-11-23T12:10:42+00:00"
+        },
+        {
+          "title": "Stock market holiday tomorrow Tuesday, 24 Nov: BSE, NSE open or closed for Guru Nanak Jayanti? Check exchange calendar - Livemint",
+          "source": "Livemint",
+          "published": "2026-11-23T12:04:04+00:00"
+        },
+        {
+          "title": "Markets crashes 1,484 points on heavy bank stock sell-off; Sensex plunges 1,484 pts, Nifty dives to 25,349.65 - Deccan Herald",
+          "source": "Deccan Herald",
+          "published": "2026-11-23T11:09:03+00:00"
+        }
+      ],
+      "low_conviction": false
+    },
+    {
+      "rank": 3,
+      "symbol": "ICICIBANK",
+      "name": "ICICI Bank",
+      "exchange": "NSE",
+      "ref_close": 1585.5,
+      "exp_ret_pct": 0.792,
+      "exp_close": 1598.06,
+      "target_price": 1604.69,
+      "stop_price": 1566.31,
+      "p_up": 0.696,
+      "quant_score": 0.6239,
+      "news_score": 0.7,
+      "combined": 0.6543,
+      "catalyst": "macro",
+      "news_summary": "Market bloodbath continues, Sensex and Nifty fall sharply. Banking stocks contribute significantly to market downturn.",
+      "news_engine": "Qwen/Qwen2.5-1.5B-Instruct",
+      "atr_pct": 2.421,
+      "headlines": [
+        {
+          "title": "ICICI Bank Share Price Prediction for Wednesday (25 Nov 2026): Stock Drops 3.32% and Closes at Its Low - Univest",
+          "source": "Univest",
+          "published": "2026-11-23T14:34:36+00:00"
+        },
+        {
+          "title": "SBI, HDFC Bank and ICICI Bank retain systemically important tag in RBI's 2026 list - The Economic Times",
+          "source": "The Economic Times",
+          "published": "2026-11-23T13:06:00+00:00"
+        },
+        {
+          "title": "Why ICICI Bank, SBI are beating HDFC, Axis on retail deposits \u2014 What it means for margins - The Financial Express",
+          "source": "The Financial Express",
+          "published": "2026-11-23T11:39:23+00:00"
+        },
+        {
+          "title": "ICICI Bank Ltd. Hits Intraday Low Amid Price Pressure on 23 Nov 2026 - MarketsMojo",
+          "source": "MarketsMojo",
+          "published": "2026-11-23T11:26:00+00:00"
+        },
+        {
+          "title": "Manic Monday for Bank Nifty as index crashes over 2000 points \u2014 Check worst hit shares and reasons behind mega plunge - Livemint",
+          "source": "Livemint",
+          "published": "2026-11-23T11:23:29+00:00"
+        }
+      ],
+      "low_conviction": false
+    },
+    {
+      "rank": 4,
+      "symbol": "APOLLOHOSP",
+      "name": "Apollo Hospitals",
+      "exchange": "NSE",
+      "ref_close": 9257.0,
+      "exp_ret_pct": 0.696,
+      "exp_close": 9321.44,
+      "target_price": 9362.84,
+      "stop_price": 9151.16,
+      "p_up": 0.683,
+      "quant_score": 0.6814,
+      "news_score": 0.5,
+      "combined": 0.6088,
+      "catalyst": "hospital stocks",
+      "news_summary": "Positive sentiment due to hospital stocks hitting 52-week highs.",
+      "news_engine": "Qwen/Qwen2.5-1.5B-Instruct",
+      "atr_pct": 2.287,
+      "headlines": [
+        {
+          "title": "Who is Jay Chaudhry? Indian-origin entrepreneur behind Zscaler's $43.9 bn deal as CrowdStrike moves to acquire firm - Livemint",
+          "source": "Livemint",
+          "published": "2026-11-23T17:42:04+00:00"
+        },
+        {
+          "title": "5,724 Call Contracts on Apollo Hospitals Enterprise Ltd. Signal Near-Term Upside Ahead of Expiry - MarketsMojo",
+          "source": "MarketsMojo",
+          "published": "2026-11-23T16:19:49+00:00"
+        },
+        {
+          "title": "Markets snap winning streak, Sensex loses over 1400 pts - The Statesman",
+          "source": "The Statesman",
+          "published": "2026-11-23T15:13:00+00:00"
+        },
+        {
+          "title": "Tata Steel completes \u20b95,825 crore purchase for 9.91% stake in APL Apollo - scanx.trade",
+          "source": "scanx.trade",
+          "published": "2026-11-23T14:50:10+00:00"
+        },
+        {
+          "title": "Nvidia stock skyrockets 30% after Jensen Huang becomes CEO again - Trump welcomes reinstatement - Livemint",
+          "source": "Livemint",
+          "published": "2026-11-23T14:21:36+00:00"
+        }
+      ],
+      "low_conviction": false
+    },
+    {
+      "rank": 5,
+      "symbol": "BAJFINANCE",
+      "name": "Bajaj Finance",
+      "exchange": "NSE",
+      "ref_close": 1095.5,
+      "exp_ret_pct": 0.942,
+      "exp_close": 1105.82,
+      "target_price": 1112.48,
+      "stop_price": 1078.52,
+      "p_up": 0.682,
+      "quant_score": 0.613,
+      "news_score": 0.6,
+      "combined": 0.6078,
+      "catalyst": "Bajaj Finance falls",
+      "news_summary": "Bajaj Finance shares fall, potentially signaling a cautious outlook.",
+      "news_engine": "Qwen/Qwen2.5-1.5B-Instruct",
+      "atr_pct": 3.101,
+      "headlines": [
+        {
+          "title": "Indoor vs outdoor CCTV cameras: 7 differences to know before securing your home - Livemint",
+          "source": "Livemint",
+          "published": "2026-11-23T18:10:28+00:00"
+        },
+        {
+          "title": "Who is Jay Chaudhry? Indian-origin entrepreneur behind Zscaler's $43.9 bn deal as CrowdStrike moves to acquire firm - Livemint",
+          "source": "Livemint",
+          "published": "2026-11-23T17:42:04+00:00"
+        },
+        {
+          "title": "Market correction or a bad mutual fund? 5 checks you must make before deciding whether to exit or stay invested - Livemint",
+          "source": "Livemint",
+          "published": "2026-11-23T16:05:22+00:00"
+        },
+        {
+          "title": "Nvidia stock skyrockets 30% after Jensen Huang becomes CEO again - Trump welcomes reinstatement - Livemint",
+          "source": "Livemint",
+          "published": "2026-11-23T14:21:36+00:00"
+        },
+        {
+          "title": "Vivo S70, S70 flagship edition to launch in December: Check expected features and camera details - Livemint",
+          "source": "Livemint",
+          "published": "2026-11-23T11:43:22+00:00"
+        }
+      ],
+      "low_conviction": false
+    }
+  ],
+  "scorecard": {
+    "pick": null,
+    "shadow": null
+  },
+  "history": [],
+  "asof_date": "2026-11-23"
+}
