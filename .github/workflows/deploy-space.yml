@@ -1,0 +1,26 @@
+name: deploy-space
+on:
+  push:
+    branches: [main]
+    paths: ["space/**"]
+  workflow_dispatch:
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: pip install huggingface_hub
+      - name: Upload space/ to the Hugging Face Space
+        env:
+          HF_WRITE_TOKEN: ${{ secrets.HF_WRITE_TOKEN }}
+          SPACE_ID: ${{ vars.SPACE_ID || 'Aman519/nse-llm-picker' }}
+        run: |
+          python - <<'EOF'
+          import os
+          from huggingface_hub import HfApi
+          api = HfApi(token=os.environ["HF_WRITE_TOKEN"])
+          api.upload_folder(folder_path="space", repo_id=os.environ["SPACE_ID"], repo_type="space")
+          print("deployed", os.environ["SPACE_ID"])
+          EOF
