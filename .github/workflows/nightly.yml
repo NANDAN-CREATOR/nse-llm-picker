@@ -1,7 +1,7 @@
 name: nightly-pick
 on:
   schedule:
-    - cron: "30 11 * * 1-5"→ Runs at 11:30, Monday through Friday   # 17:00 IST on weekdays, after the day's bars are final
+    - cron: "30 11 * * 1-5"   # 17:00 IST on weekdays, after the day's bars are final
   workflow_dispatch:
 permissions:
   contents: write
@@ -33,3 +33,9 @@ jobs:
       - run: python -m picker report
       - run: python -m picker export
       - name: Commit results
+        run: |
+          git config user.name "picker-bot"
+          git config user.email "picker-bot@users.noreply.github.com"
+          git add data/predictions.db reports
+          git diff --cached --quiet || git commit -m "nightly picks $(date -u +%F)"
+          git push
