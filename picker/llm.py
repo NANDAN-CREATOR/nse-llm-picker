@@ -23,7 +23,11 @@ PROMPT = """Company: {name} (NSE: {symbol})
 Headlines from the last 3 days:
 {lines}
 
-Judge the likely effect on this stock's price in the NEXT trading session only.
+Judge the likely effect on THIS stock's price in the NEXT trading session only.
+Rules: words like falls, crash, plunge, tumbles, downgrade, probe, penalty, loss are NEGATIVE.
+A market-wide or sector-wide selloff is also negative for this stock.
+Use 0 when the headlines are not about this company or are mixed.
+Weigh recent, company-specific headlines most. Be conservative: go beyond +-0.6 only for clear company-specific news.
 Reply with JSON only, no other text:
 {{"sentiment": <number from -1 (very negative) to 1 (very positive)>,
  "catalyst": "<earnings|order win|regulatory|management|macro|sector|other|none>",
