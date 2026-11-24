@@ -1,17 +1,13 @@
 name: nightly-pick
-
 on:
   schedule:
     - cron: "30 11 * * 1-5"   # 17:00 IST on weekdays, after the day's bars are final
   workflow_dispatch:
-
 permissions:
   contents: write
-
 concurrency:
   group: nightly-pick
   cancel-in-progress: false
-
 jobs:
   run:
     runs-on: ubuntu-latest
@@ -44,4 +40,5 @@ jobs:
           git config user.email "picker-bot@users.noreply.github.com"
           git add data/predictions.db reports
           git diff --cached --quiet || git commit -m "nightly picks $(date -u +%F)"
+          git pull --rebase -X theirs origin main
           git push
