@@ -1,232 +1,333 @@
 {
-  "generated_at": "2026-11-25T03:02:56.413929+05:30",
-  "target_date": "2026-11-25",
+  "generated_at": "2026-11-25T23:27:56.247768+05:30",
+  "target_date": "2026-11-26",
   "picks": [
     {
       "rank": 1,
-      "symbol": "KOTAKBANK",
-      "name": "Kotak Mahindra Bank",
+      "symbol": "ICICIBANK",
+      "name": "ICICI Bank",
       "exchange": "NSE",
-      "ref_close": 502.85,
-      "exp_ret_pct": 0.541,
-      "exp_close": 505.57,
-      "target_price": 508.7,
-      "stop_price": 497.0,
-      "p_up": 0.64,
-      "quant_score": 0.6421,
-      "news_score": 0.2,
-      "combined": 0.4652,
-      "catalyst": "none",
-      "news_summary": "Mixed headlines with no clear impact on Kotak Mahindra Bank's price.",
+      "ref_close": 1640.0,
+      "exp_ret_pct": 0.81,
+      "exp_close": 1653.28,
+      "target_price": 1659.93,
+      "stop_price": 1620.07,
+      "p_up": 0.7,
+      "quant_score": 0.7109,
+      "news_score": 0.6,
+      "combined": 0.6666,
+      "catalyst": "management",
+      "news_summary": "ICICI Bank sees positive news from investor meet and management ratings.",
       "news_engine": "Qwen/Qwen2.5-3B-Instruct",
-      "atr_pct": 2.327,
+      "atr_pct": 2.43,
       "headlines": [
         {
-          "title": "HDFC Bank, Kotak, Axis need faster retail deposit growth for share re-rating: Jefferies - The Economic Times",
-          "source": "The Economic Times",
-          "published": "2026-11-24T18:59:00+00:00"
+          "title": "ICICI Bank schedules investor meet with Macquarie for Dec 1, 2026 - scanx.trade",
+          "source": "scanx.trade",
+          "published": "2026-11-25T08:22:43+00:00"
         },
         {
-          "title": "Sensex Crash: Markets Sink 1,484 Points as Banking and Metal Stocks Drag - theopenpress.in",
-          "source": "theopenpress.in",
-          "published": "2026-11-24T18:29:55+00:00"
+          "title": "PL Capital Raises Nifty Target To 28,561: Amnish Aggarwal Names 18 Stocks For The Next Rally - NDTV Profit",
+          "source": "NDTV Profit",
+          "published": "2026-11-25T08:18:48+00:00"
         },
         {
-          "title": "Uday Kotak on Jensen Huang coming back as NVIDIA CEO: \u2018When elephants dance, everyone moves to give space!\u2019 - Full text - Livemint",
-          "source": "Livemint",
-          "published": "2026-11-24T11:09:20+00:00"
+          "title": "stock insights tata steel pb fintech it ril hdfc icici bank - Zee Business",
+          "source": "Zee Business",
+          "published": "2026-11-25T07:51:01+00:00"
         },
         {
-          "title": "Kotak Bank Allots 5.57 Lakh Shares Under ESOP Schemes - PSU Connect",
-          "source": "PSU Connect",
-          "published": "2026-11-24T09:05:00+00:00"
+          "title": "ICICI Bank shares hit \u20b91,650, 6th gain in 7 days - NewsBytes",
+          "source": "NewsBytes",
+          "published": "2026-11-25T07:27:21+00:00"
         },
         {
-          "title": "ONGC, Jio Financial to SBI Life: Kotak sees 10\u201359% upside in 21 Nifty stocks - The Financial Express",
-          "source": "The Financial Express",
-          "published": "2026-11-24T08:59:43+00:00"
+          "title": "ICICI Bank shares at record high \u2014 Here's why JPMorgan rates it its top pick - CNBC TV18",
+          "source": "CNBC TV18",
+          "published": "2026-11-25T06:49:36+00:00"
         }
       ],
       "low_conviction": false
     },
     {
       "rank": 2,
-      "symbol": "INDIGO",
-      "name": "InterGlobe Aviation IndiGo",
+      "symbol": "CIPLA",
+      "name": "Cipla",
       "exchange": "NSE",
-      "ref_close": 5523.0,
-      "exp_ret_pct": 0.667,
-      "exp_close": 5559.84,
-      "target_price": 5603.69,
-      "stop_price": 5442.31,
-      "p_up": 0.637,
-      "quant_score": 0.6275,
-      "news_score": 0.2,
-      "combined": 0.4565,
-      "catalyst": "other",
-      "news_summary": "Mixed market signals do not impact specific company performance.",
+      "ref_close": 1433.2,
+      "exp_ret_pct": 0.568,
+      "exp_close": 1441.34,
+      "target_price": 1445.95,
+      "stop_price": 1420.45,
+      "p_up": 0.692,
+      "quant_score": 0.664,
+      "news_score": 0.6,
+      "combined": 0.6384,
+      "catalyst": "regulatory",
+      "news_summary": "Cipla shares likely to rise due to FDA approval for generic asthma drug",
       "news_engine": "Qwen/Qwen2.5-3B-Instruct",
-      "atr_pct": 2.922,
+      "atr_pct": 1.779,
       "headlines": [
         {
-          "title": "GIFT NIFTY futures signal gap-up opening on November 23; what investors should track ahead of market open - Upstox",
-          "source": "Upstox",
-          "published": "2026-11-23T01:19:34+00:00"
+          "title": "Cipla shares rise after FDA approves generic 'Flovent HFA' inhaler - NewsBytes",
+          "source": "NewsBytes",
+          "published": "2026-11-25T07:27:21+00:00"
         },
         {
-          "title": "Weekly Recap: Quarterly loss, fuel rise and Saudi flight cancellations - TradingView",
-          "source": "TradingView",
-          "published": "2026-11-23T01:00:00+00:00"
+          "title": "Cipla Ltd. is Rated Hold by MarketsMOJO - MarketsMojo",
+          "source": "MarketsMojo",
+          "published": "2026-11-25T06:58:06+00:00"
+        },
+        {
+          "title": "Cipla shares rise 3% after USFDA nod for asthma treatment drug - CNBC TV18",
+          "source": "CNBC TV18",
+          "published": "2026-11-25T06:48:45+00:00"
+        },
+        {
+          "title": "Cipla Gets USFDA Approval for First Generic Version of Flovent HFA Asthma Drug in Two Strengths - Kotak Neo",
+          "source": "Kotak Neo",
+          "published": "2026-11-25T06:10:07+00:00"
+        },
+        {
+          "title": "Nearly Debt-Free Pharma Stock with Over 20% FII Holding Gains on US Launch of Generic Flovent Asthma Inhaler - Dalal Street Investment Journal",
+          "source": "Dalal Street Investment Journal",
+          "published": "2026-11-25T04:45:59+00:00"
         }
       ],
       "low_conviction": false
     },
     {
       "rank": 3,
-      "symbol": "ADANIPORTS",
-      "name": "Adani Ports",
+      "symbol": "INDIGO",
+      "name": "InterGlobe Aviation IndiGo",
       "exchange": "NSE",
-      "ref_close": 1919.0,
-      "exp_ret_pct": 0.496,
-      "exp_close": 1928.52,
-      "target_price": 1941.11,
-      "stop_price": 1896.89,
-      "p_up": 0.629,
-      "quant_score": 0.5846,
-      "news_score": 0.2,
-      "combined": 0.4308,
-      "catalyst": "management",
-      "news_summary": "Adani Ports receives positive capital expenditure update from management",
+      "ref_close": 5720.0,
+      "exp_ret_pct": 0.808,
+      "exp_close": 5766.24,
+      "target_price": 5802.18,
+      "stop_price": 5637.82,
+      "p_up": 0.669,
+      "quant_score": 0.6711,
+      "news_score": 0.4,
+      "combined": 0.5627,
+      "catalyst": "macro",
+      "news_summary": "Moderate market rally expected, no specific impact on INDIGO.",
       "news_engine": "Qwen/Qwen2.5-3B-Instruct",
-      "atr_pct": 2.304,
+      "atr_pct": 2.874,
       "headlines": [
         {
-          "title": "Nissan's SUV Patrol could launch in India by 2027: Expected price, engine, features and rivals - Livemint",
-          "source": "Livemint",
-          "published": "2026-11-24T17:56:49+00:00"
+          "title": "Wipro shares in focus on bagging BP finance operations deal; about 3,000 BP employees to move to IT firm - Upstox",
+          "source": "Upstox",
+          "published": "2026-11-25T13:03:04+00:00"
         },
         {
-          "title": "US prepares fresh tariff hikes on China and India over industrial subsidies; announcement expected this week - Livemint",
-          "source": "Livemint",
-          "published": "2026-11-24T17:02:03+00:00"
+          "title": "7 factors driving D-Street rally: Sensex, Nifty close with 2% gains, Rupee at 8-mth high - The Financial Express",
+          "source": "The Financial Express",
+          "published": "2026-11-25T11:48:25+00:00"
         },
         {
-          "title": "Who is Lori Huang? How Jensen Huang\u2019s wife holds the keys to Nvidia founder\u2019s $109 billion fortune through family trusts - Livemint",
-          "source": "Livemint",
-          "published": "2026-11-24T15:33:54+00:00"
+          "title": "Sensex surges 1,502 pts, Nifty reclaims 25,800; HUL jumps 6%, investors gain Rs 3 lakh cr - NewsDrum",
+          "source": "NewsDrum",
+          "published": "2026-11-25T11:26:31+00:00"
         },
         {
-          "title": "Will gold prices go up or crash? This Nov date; US event will decide - Livemint",
-          "source": "Livemint",
-          "published": "2026-11-24T13:48:45+00:00"
+          "title": "Mid-market update: Indian equities defend opening gains; NIFTY50 trades above 25,700, SENSEX jumps 1700 pts - Upstox",
+          "source": "Upstox",
+          "published": "2026-11-25T07:54:52+00:00"
         },
         {
-          "title": "Adani targets $120 billion-plus in capex as group pitches leverage discipline to investors - Moneycontrol.com",
-          "source": "Moneycontrol.com",
-          "published": "2026-11-24T10:00:31+00:00"
+          "title": "SENSEX rallies over 1,300 pts, NIFTY50 above 25,650: Jupiter Wagons, L&T, Brigade Enterprises among buzzing stocks - Upstox",
+          "source": "Upstox",
+          "published": "2026-11-25T07:39:47+00:00"
         }
       ],
       "low_conviction": false
     },
     {
       "rank": 4,
-      "symbol": "JSWSTEEL",
-      "name": "JSW Steel",
+      "symbol": "BAJFINANCE",
+      "name": "Bajaj Finance",
       "exchange": "NSE",
-      "ref_close": 1311.9,
-      "exp_ret_pct": 0.462,
-      "exp_close": 1317.96,
-      "target_price": 1326.25,
-      "stop_price": 1297.55,
-      "p_up": 0.627,
-      "quant_score": 0.571,
+      "ref_close": 1131.35,
+      "exp_ret_pct": 0.79,
+      "exp_close": 1140.29,
+      "target_price": 1149.5,
+      "stop_price": 1113.2,
+      "p_up": 0.648,
+      "quant_score": 0.6871,
       "news_score": 0.2,
-      "combined": 0.4226,
-      "catalyst": "management",
-      "news_summary": "Mixed headlines, few specific to JSW Steel; focus on management performance.",
+      "combined": 0.4922,
+      "catalyst": "other",
+      "news_summary": "Mixed global economic data and unrelated corporate events do not impact Bajaj Finance directly.",
       "news_engine": "Qwen/Qwen2.5-3B-Instruct",
-      "atr_pct": 2.188,
+      "atr_pct": 3.209,
       "headlines": [
         {
-          "title": "Who is Lori Huang? How Jensen Huang\u2019s wife holds the keys to Nvidia founder\u2019s $109 billion fortune through family trusts - Livemint",
-          "source": "Livemint",
-          "published": "2026-11-24T15:33:54+00:00"
+          "title": "India's net FDI turns negative in September, records $4.9 billion outflow - Business Standard",
+          "source": "Business Standard",
+          "published": "2026-11-25T15:49:26+00:00"
         },
         {
-          "title": "Will gold prices go up or crash? This Nov date; US event will decide - Livemint",
-          "source": "Livemint",
-          "published": "2026-11-24T13:48:45+00:00"
+          "title": "NRI deposit inflows jump to $125.6 billion in April-September period - Business Standard",
+          "source": "Business Standard",
+          "published": "2026-11-25T15:40:52+00:00"
         },
         {
-          "title": "JSW Steel Stock: Trading, Earnings and Momentum - Kalkine India",
-          "source": "Kalkine India",
-          "published": "2026-11-24T12:36:00+00:00"
+          "title": "Outward remittances under LRS rise 6.1% to $15.7 billion in H1FY27 - Business Standard",
+          "source": "Business Standard",
+          "published": "2026-11-25T15:31:07+00:00"
         },
         {
-          "title": "Jensen Huang is back $1 trn m-cap; Nvidia's \u20b992.84 lakh cr comeback - 70% losses recovered; Baird is bullish; target - Livemint",
+          "title": "Nifty recovers Monday's losses, moves within reach of record high - Livemint",
           "source": "Livemint",
-          "published": "2026-11-24T06:54:30+00:00"
+          "published": "2026-11-25T15:18:49+00:00"
         },
         {
-          "title": "5 energy stocks with attractive dividend yield - Hindustan Petroleum, Indian Oil, Bharat Petroleum, ONGC, to Gulf Oil - Livemint",
+          "title": "Wipro secures $500 million contract from energy major BP - Livemint",
           "source": "Livemint",
-          "published": "2026-11-24T05:00:22+00:00"
+          "published": "2026-11-25T14:59:34+00:00"
         }
       ],
       "low_conviction": false
     },
     {
       "rank": 5,
-      "symbol": "SBIN",
-      "name": "State Bank of India",
+      "symbol": "KOTAKBANK",
+      "name": "Kotak Mahindra Bank",
       "exchange": "NSE",
-      "ref_close": 1132.65,
-      "exp_ret_pct": 0.556,
-      "exp_close": 1138.94,
-      "target_price": 1147.93,
-      "stop_price": 1117.37,
-      "p_up": 0.624,
-      "quant_score": 0.553,
+      "ref_close": 509.0,
+      "exp_ret_pct": 0.558,
+      "exp_close": 511.84,
+      "target_price": 514.92,
+      "stop_price": 503.08,
+      "p_up": 0.644,
+      "quant_score": 0.667,
       "news_score": 0.2,
-      "combined": 0.4118,
-      "catalyst": "regulatory",
-      "news_summary": "Mixed headlines, few specific to SBI; regulatory update on data breach.",
+      "combined": 0.4802,
+      "catalyst": "management",
+      "news_summary": "Kotak Mahindra Bank gains slightly amid management-related positive news.",
       "news_engine": "Qwen/Qwen2.5-3B-Instruct",
-      "atr_pct": 2.699,
+      "atr_pct": 2.325,
       "headlines": [
         {
-          "title": "RBI urges primary dealers to bid responsibly in G-Sec underwriting auctions - The Financial Express",
-          "source": "The Financial Express",
-          "published": "2026-11-24T16:12:07+00:00"
-        },
-        {
-          "title": "HDFC Bank, Reliance Industries among 10 stocks with highest DII holding in Q2. See full list - The Economic Times",
-          "source": "The Economic Times",
-          "published": "2026-11-24T11:14:38+00:00"
-        },
-        {
-          "title": "10 Large-Cap Stocks That Turned \u20b91 Lakh Into Up to \u20b915 Lakh in 10 Years; Do You Own Any? - Trade Brains",
+          "title": "Nippon India Small Cap Fund Bets \u20b9571 Crore on ITC, Adds Bank of Baroda: Check Full Portfolio Changes - Trade Brains",
           "source": "Trade Brains",
-          "published": "2026-11-24T09:45:37+00:00"
+          "published": "2026-11-25T14:00:37+00:00"
         },
         {
-          "title": "SBI to VA Tech Wabag: Axis Securities\u2019 7 top conviction picks with 12.6% to 48% upside - The Financial Express",
-          "source": "The Financial Express",
-          "published": "2026-11-24T07:50:00+00:00"
+          "title": "BSE, Eternal, Titan, SBI among 18 Nifty 50 stocks that rallied 10\u201343% in 2026; what's driving gains? - Livemint",
+          "source": "Livemint",
+          "published": "2026-11-25T12:28:30+00:00"
         },
         {
-          "title": "Are banks open or closed today? Check RBI\u2019s 21-city holiday list for Guru Nanak Jayanti - The Financial Express",
-          "source": "The Financial Express",
-          "published": "2026-11-24T06:39:13+00:00"
+          "title": "HDFC Bank, ICICI Bank, Axis Bank shares surge; banking index zooms 18% in a month: What should investors do? - IndiaIPO",
+          "source": "IndiaIPO",
+          "published": "2026-11-25T11:08:07+00:00"
+        },
+        {
+          "title": "BT Closing Bell: Sensex, Nifty reverse previous session losses; here's what cheered investors - Business Today",
+          "source": "Business Today",
+          "published": "2026-11-25T10:50:28+00:00"
+        },
+        {
+          "title": "Kotak Mahindra Bank advances Wednesday, underperforms competitors - MarketWatch",
+          "source": "MarketWatch",
+          "published": "2026-11-25T10:30:00+00:00"
         }
       ],
       "low_conviction": false
     }
   ],
   "scorecard": {
-    "pick": null,
-    "shadow": null
+    "pick": {
+      "n": 1.0,
+      "direction_hit_rate": 1.0,
+      "avg_p_up_prior": 0.648,
+      "avg_expected_pct": 0.664,
+      "avg_actual_pct": 0.486,
+      "mean_abs_error_pp": 0.178,
+      "avg_alpha_pct": -1.367,
+      "target_hit_rate": 1.0,
+      "stop_hit_rate": 0.0
+    },
+    "shadow": {
+      "n": 4.0,
+      "direction_hit_rate": 0.75,
+      "avg_p_up_prior": 0.635,
+      "avg_expected_pct": 0.555,
+      "avg_actual_pct": 1.8775000000000002,
+      "mean_abs_error_pp": 1.912,
+      "avg_alpha_pct": 0.025249999999999995,
+      "target_hit_rate": 0.75,
+      "stop_hit_rate": 0.25
+    }
   },
-  "history": [],
-  "asof_date": "2026-11-23"
+  "history": [
+    {
+      "target_date": "2026-11-25",
+      "rank": 1,
+      "symbol": "SBIN",
+      "exp_ret_pct": 0.664,
+      "act_ret_pct": 0.486,
+      "error_pp": -0.178,
+      "alpha_pct": -1.367,
+      "dir_hit": 1.0,
+      "target_hit": 1.0,
+      "stop_hit": 0.0,
+      "p_up": 0.648
+    },
+    {
+      "target_date": "2026-11-25",
+      "rank": 2,
+      "symbol": "KOTAKBANK",
+      "exp_ret_pct": 0.541,
+      "act_ret_pct": 1.223,
+      "error_pp": 0.682,
+      "alpha_pct": -0.629,
+      "dir_hit": 1.0,
+      "target_hit": 1.0,
+      "stop_hit": 0.0,
+      "p_up": 0.64
+    },
+    {
+      "target_date": "2026-11-25",
+      "rank": 3,
+      "symbol": "INDIGO",
+      "exp_ret_pct": 0.667,
+      "act_ret_pct": 3.567,
+      "error_pp": 2.9,
+      "alpha_pct": 1.714,
+      "dir_hit": 1.0,
+      "target_hit": 1.0,
+      "stop_hit": 0.0,
+      "p_up": 0.637
+    },
+    {
+      "target_date": "2026-11-25",
+      "rank": 4,
+      "symbol": "ICICIBANK",
+      "exp_ret_pct": 0.55,
+      "act_ret_pct": 3.437,
+      "error_pp": 2.887,
+      "alpha_pct": 1.585,
+      "dir_hit": 1.0,
+      "target_hit": 1.0,
+      "stop_hit": 0.0,
+      "p_up": 0.636
+    },
+    {
+      "target_date": "2026-11-25",
+      "rank": 5,
+      "symbol": "JSWSTEEL",
+      "exp_ret_pct": 0.462,
+      "act_ret_pct": -0.717,
+      "error_pp": -1.179,
+      "alpha_pct": -2.569,
+      "dir_hit": 0.0,
+      "target_hit": 0.0,
+      "stop_hit": 1.0,
+      "p_up": 0.627
+    }
+  ],
+  "asof_date": "2026-11-25"
 }

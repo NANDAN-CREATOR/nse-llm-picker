@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 446" width="900" font-family="Segoe UI, Helvetica, Arial, sans-serif">
-<rect width="900" height="446" rx="14" fill="#0f0f1e"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 706" width="900" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect width="900" height="706" rx="14" fill="#0f0f1e"/>
 <text x="28" y="40" font-size="22" fill="#f4f4f8" text-anchor="start" font-weight="bold">NSE LLM Picker</text>
-<text x="28" y="62" font-size="12.5" fill="#9a9ab5" text-anchor="start" font-weight="normal">Top 5 for session 2026-11-25  |  based on close of 2026-11-23  |  updated 2026-11-25 03:02 IST</text>
+<text x="28" y="62" font-size="12.5" fill="#9a9ab5" text-anchor="start" font-weight="normal">Top 5 for session 2026-11-26  |  based on close of 2026-11-25  |  updated 2026-11-25 23:27 IST</text>
 <text x="872" y="40" font-size="11" fill="#9a9ab5" text-anchor="end" font-weight="normal">experiment, not investment advice</text>
 <rect x="16" y="86" width="868" height="224" rx="10" fill="#181830"/>
 <text x="28" y="110" font-size="11.5" fill="#9a9ab5" text-anchor="start" font-weight="bold">#</text>
@@ -14,62 +14,101 @@
 <text x="625" y="110" font-size="11.5" fill="#9a9ab5" text-anchor="start" font-weight="bold">Combined</text>
 <line x1="28" x2="872" y1="120" y2="120" stroke="#2a2a48"/>
 <text x="28" y="145" font-size="14" fill="#7c6cf0" text-anchor="start" font-weight="bold">1</text>
-<text x="60" y="145" font-size="14" fill="#f4f4f8" text-anchor="start" font-weight="bold">KOTAKBANK</text>
-<text x="250" y="145" font-size="13" fill="#f4f4f8" text-anchor="end" font-weight="normal">502.85</text>
-<text x="335" y="145" font-size="13" fill="#2ecc8f" text-anchor="end" font-weight="bold">+0.54%</text>
-<text x="425" y="145" font-size="13" fill="#f4f4f8" text-anchor="end" font-weight="normal">508.70</text>
-<text x="515" y="145" font-size="13" fill="#f4f4f8" text-anchor="end" font-weight="normal">497.00</text>
-<text x="580" y="145" font-size="13" fill="#f4f4f8" text-anchor="end" font-weight="normal">64%</text>
+<text x="60" y="145" font-size="14" fill="#f4f4f8" text-anchor="start" font-weight="bold">ICICIBANK</text>
+<text x="250" y="145" font-size="13" fill="#f4f4f8" text-anchor="end" font-weight="normal">1,640.00</text>
+<text x="335" y="145" font-size="13" fill="#2ecc8f" text-anchor="end" font-weight="bold">+0.81%</text>
+<text x="425" y="145" font-size="13" fill="#f4f4f8" text-anchor="end" font-weight="normal">1,659.93</text>
+<text x="515" y="145" font-size="13" fill="#f4f4f8" text-anchor="end" font-weight="normal">1,620.07</text>
+<text x="580" y="145" font-size="13" fill="#f4f4f8" text-anchor="end" font-weight="normal">70%</text>
 <rect x="625" y="134" width="170" height="10" rx="5" fill="#2a2a48"/>
-<rect x="625" y="134" width="79" height="10" rx="5" fill="#2ecc8f"/>
-<text x="806" y="143" font-size="12.5" fill="#f4f4f8" text-anchor="start" font-weight="normal">+0.47</text>
+<rect x="625" y="134" width="113" height="10" rx="5" fill="#2ecc8f"/>
+<text x="806" y="143" font-size="12.5" fill="#f4f4f8" text-anchor="start" font-weight="normal">+0.67</text>
 <line x1="28" x2="872" y1="158" y2="158" stroke="#2a2a48"/>
 <text x="28" y="183" font-size="14" fill="#7c6cf0" text-anchor="start" font-weight="bold">2</text>
-<text x="60" y="183" font-size="14" fill="#f4f4f8" text-anchor="start" font-weight="bold">INDIGO</text>
-<text x="250" y="183" font-size="13" fill="#f4f4f8" text-anchor="end" font-weight="normal">5,523.00</text>
-<text x="335" y="183" font-size="13" fill="#2ecc8f" text-anchor="end" font-weight="bold">+0.67%</text>
-<text x="425" y="183" font-size="13" fill="#f4f4f8" text-anchor="end" font-weight="normal">5,603.69</text>
-<text x="515" y="183" font-size="13" fill="#f4f4f8" text-anchor="end" font-weight="normal">5,442.31</text>
-<text x="580" y="183" font-size="13" fill="#f4f4f8" text-anchor="end" font-weight="normal">64%</text>
+<text x="60" y="183" font-size="14" fill="#f4f4f8" text-anchor="start" font-weight="bold">CIPLA</text>
+<text x="250" y="183" font-size="13" fill="#f4f4f8" text-anchor="end" font-weight="normal">1,433.20</text>
+<text x="335" y="183" font-size="13" fill="#2ecc8f" text-anchor="end" font-weight="bold">+0.57%</text>
+<text x="425" y="183" font-size="13" fill="#f4f4f8" text-anchor="end" font-weight="normal">1,445.95</text>
+<text x="515" y="183" font-size="13" fill="#f4f4f8" text-anchor="end" font-weight="normal">1,420.45</text>
+<text x="580" y="183" font-size="13" fill="#f4f4f8" text-anchor="end" font-weight="normal">69%</text>
 <rect x="625" y="172" width="170" height="10" rx="5" fill="#2a2a48"/>
-<rect x="625" y="172" width="78" height="10" rx="5" fill="#2ecc8f"/>
-<text x="806" y="181" font-size="12.5" fill="#f4f4f8" text-anchor="start" font-weight="normal">+0.46</text>
+<rect x="625" y="172" width="109" height="10" rx="5" fill="#2ecc8f"/>
+<text x="806" y="181" font-size="12.5" fill="#f4f4f8" text-anchor="start" font-weight="normal">+0.64</text>
 <line x1="28" x2="872" y1="196" y2="196" stroke="#2a2a48"/>
 <text x="28" y="221" font-size="14" fill="#7c6cf0" text-anchor="start" font-weight="bold">3</text>
-<text x="60" y="221" font-size="14" fill="#f4f4f8" text-anchor="start" font-weight="bold">ADANIPORTS</text>
-<text x="250" y="221" font-size="13" fill="#f4f4f8" text-anchor="end" font-weight="normal">1,919.00</text>
-<text x="335" y="221" font-size="13" fill="#2ecc8f" text-anchor="end" font-weight="bold">+0.50%</text>
-<text x="425" y="221" font-size="13" fill="#f4f4f8" text-anchor="end" font-weight="normal">1,941.11</text>
-<text x="515" y="221" font-size="13" fill="#f4f4f8" text-anchor="end" font-weight="normal">1,896.89</text>
-<text x="580" y="221" font-size="13" fill="#f4f4f8" text-anchor="end" font-weight="normal">63%</text>
+<text x="60" y="221" font-size="14" fill="#f4f4f8" text-anchor="start" font-weight="bold">INDIGO</text>
+<text x="250" y="221" font-size="13" fill="#f4f4f8" text-anchor="end" font-weight="normal">5,720.00</text>
+<text x="335" y="221" font-size="13" fill="#2ecc8f" text-anchor="end" font-weight="bold">+0.81%</text>
+<text x="425" y="221" font-size="13" fill="#f4f4f8" text-anchor="end" font-weight="normal">5,802.18</text>
+<text x="515" y="221" font-size="13" fill="#f4f4f8" text-anchor="end" font-weight="normal">5,637.82</text>
+<text x="580" y="221" font-size="13" fill="#f4f4f8" text-anchor="end" font-weight="normal">67%</text>
 <rect x="625" y="210" width="170" height="10" rx="5" fill="#2a2a48"/>
-<rect x="625" y="210" width="73" height="10" rx="5" fill="#2ecc8f"/>
-<text x="806" y="219" font-size="12.5" fill="#f4f4f8" text-anchor="start" font-weight="normal">+0.43</text>
+<rect x="625" y="210" width="96" height="10" rx="5" fill="#2ecc8f"/>
+<text x="806" y="219" font-size="12.5" fill="#f4f4f8" text-anchor="start" font-weight="normal">+0.56</text>
 <line x1="28" x2="872" y1="234" y2="234" stroke="#2a2a48"/>
 <text x="28" y="259" font-size="14" fill="#7c6cf0" text-anchor="start" font-weight="bold">4</text>
-<text x="60" y="259" font-size="14" fill="#f4f4f8" text-anchor="start" font-weight="bold">JSWSTEEL</text>
-<text x="250" y="259" font-size="13" fill="#f4f4f8" text-anchor="end" font-weight="normal">1,311.90</text>
-<text x="335" y="259" font-size="13" fill="#2ecc8f" text-anchor="end" font-weight="bold">+0.46%</text>
-<text x="425" y="259" font-size="13" fill="#f4f4f8" text-anchor="end" font-weight="normal">1,326.25</text>
-<text x="515" y="259" font-size="13" fill="#f4f4f8" text-anchor="end" font-weight="normal">1,297.55</text>
-<text x="580" y="259" font-size="13" fill="#f4f4f8" text-anchor="end" font-weight="normal">63%</text>
+<text x="60" y="259" font-size="14" fill="#f4f4f8" text-anchor="start" font-weight="bold">BAJFINANCE</text>
+<text x="250" y="259" font-size="13" fill="#f4f4f8" text-anchor="end" font-weight="normal">1,131.35</text>
+<text x="335" y="259" font-size="13" fill="#2ecc8f" text-anchor="end" font-weight="bold">+0.79%</text>
+<text x="425" y="259" font-size="13" fill="#f4f4f8" text-anchor="end" font-weight="normal">1,149.50</text>
+<text x="515" y="259" font-size="13" fill="#f4f4f8" text-anchor="end" font-weight="normal">1,113.20</text>
+<text x="580" y="259" font-size="13" fill="#f4f4f8" text-anchor="end" font-weight="normal">65%</text>
 <rect x="625" y="248" width="170" height="10" rx="5" fill="#2a2a48"/>
-<rect x="625" y="248" width="72" height="10" rx="5" fill="#2ecc8f"/>
-<text x="806" y="257" font-size="12.5" fill="#f4f4f8" text-anchor="start" font-weight="normal">+0.42</text>
+<rect x="625" y="248" width="84" height="10" rx="5" fill="#2ecc8f"/>
+<text x="806" y="257" font-size="12.5" fill="#f4f4f8" text-anchor="start" font-weight="normal">+0.49</text>
 <line x1="28" x2="872" y1="272" y2="272" stroke="#2a2a48"/>
 <text x="28" y="297" font-size="14" fill="#7c6cf0" text-anchor="start" font-weight="bold">5</text>
-<text x="60" y="297" font-size="14" fill="#f4f4f8" text-anchor="start" font-weight="bold">SBIN</text>
-<text x="250" y="297" font-size="13" fill="#f4f4f8" text-anchor="end" font-weight="normal">1,132.65</text>
+<text x="60" y="297" font-size="14" fill="#f4f4f8" text-anchor="start" font-weight="bold">KOTAKBANK</text>
+<text x="250" y="297" font-size="13" fill="#f4f4f8" text-anchor="end" font-weight="normal">509.00</text>
 <text x="335" y="297" font-size="13" fill="#2ecc8f" text-anchor="end" font-weight="bold">+0.56%</text>
-<text x="425" y="297" font-size="13" fill="#f4f4f8" text-anchor="end" font-weight="normal">1,147.93</text>
-<text x="515" y="297" font-size="13" fill="#f4f4f8" text-anchor="end" font-weight="normal">1,117.37</text>
-<text x="580" y="297" font-size="13" fill="#f4f4f8" text-anchor="end" font-weight="normal">62%</text>
+<text x="425" y="297" font-size="13" fill="#f4f4f8" text-anchor="end" font-weight="normal">514.92</text>
+<text x="515" y="297" font-size="13" fill="#f4f4f8" text-anchor="end" font-weight="normal">503.08</text>
+<text x="580" y="297" font-size="13" fill="#f4f4f8" text-anchor="end" font-weight="normal">64%</text>
 <rect x="625" y="286" width="170" height="10" rx="5" fill="#2a2a48"/>
-<rect x="625" y="286" width="70" height="10" rx="5" fill="#2ecc8f"/>
-<text x="806" y="295" font-size="12.5" fill="#f4f4f8" text-anchor="start" font-weight="normal">+0.41</text>
+<rect x="625" y="286" width="82" height="10" rx="5" fill="#2ecc8f"/>
+<text x="806" y="295" font-size="12.5" fill="#f4f4f8" text-anchor="start" font-weight="normal">+0.48</text>
 <text x="28" y="338" font-size="17" fill="#f4f4f8" text-anchor="start" font-weight="bold">Expectation vs reality</text>
-<rect x="16" y="352" width="868" height="64" rx="10" fill="#181830"/>
-<text x="32" y="378" font-size="13" fill="#f4f4f8" text-anchor="start" font-weight="normal">No session has been scored yet. The first result appears after the 2026-11-25 close.</text>
-<text x="32" y="399" font-size="12" fill="#9a9ab5" text-anchor="start" font-weight="normal">Each pick is logged before the open, then compared with the real close.</text>
-<text x="28" y="434" font-size="11" fill="#9a9ab5" text-anchor="start" font-weight="normal">github.com/NANDAN-CREATOR/nse-llm-picker  |  rebuilt after every nightly run</text>
+<rect x="16" y="352" width="166" height="62" rx="10" fill="#181830"/>
+<text x="30.0" y="374" font-size="11.5" fill="#9a9ab5" text-anchor="start" font-weight="normal">Session scored</text>
+<text x="30.0" y="401" font-size="18" fill="#f4f4f8" text-anchor="start" font-weight="bold">2026-11-25</text>
+<rect x="192" y="352" width="166" height="62" rx="10" fill="#181830"/>
+<text x="205.6" y="374" font-size="11.5" fill="#9a9ab5" text-anchor="start" font-weight="normal">Direction right</text>
+<text x="205.6" y="401" font-size="20" fill="#f4f4f8" text-anchor="start" font-weight="bold">4 of 5</text>
+<rect x="367" y="352" width="166" height="62" rx="10" fill="#181830"/>
+<text x="381.2" y="374" font-size="11.5" fill="#9a9ab5" text-anchor="start" font-weight="normal">Avg expected</text>
+<text x="381.2" y="401" font-size="20" fill="#f4f4f8" text-anchor="start" font-weight="bold">+0.58%</text>
+<rect x="543" y="352" width="166" height="62" rx="10" fill="#181830"/>
+<text x="556.8" y="374" font-size="11.5" fill="#9a9ab5" text-anchor="start" font-weight="normal">Avg actual</text>
+<text x="556.8" y="401" font-size="20" fill="#f4f4f8" text-anchor="start" font-weight="bold">+1.60%</text>
+<rect x="718" y="352" width="166" height="62" rx="10" fill="#181830"/>
+<text x="732.4" y="374" font-size="11.5" fill="#9a9ab5" text-anchor="start" font-weight="normal">Avg error</text>
+<text x="732.4" y="401" font-size="20" fill="#f4f4f8" text-anchor="start" font-weight="bold">1.57 pp</text>
+<text x="28" y="432" font-size="12.5" fill="#9a9ab5" text-anchor="start" font-weight="normal">Latest scored picks (2026-11-25): expected (grey) vs actual (colour), % move</text>
+<rect x="16" y="442" width="868" height="234" rx="10" fill="#181830"/>
+<text x="32" y="476" font-size="13" fill="#f4f4f8" text-anchor="start" font-weight="bold">#1  SBIN</text>
+<line x1="430" x2="430" y1="454" y2="490" stroke="#2a2a48"/>
+<rect x="430" y="458" width="24" height="11" rx="3" fill="#6b6b8a"/>
+<rect x="430" y="473" width="18" height="11" rx="3" fill="#2ecc8f"/>
+<text x="868" y="476" font-size="12.5" fill="#2ecc8f" text-anchor="end" font-weight="normal">+0.66% vs +0.49%  direction right</text>
+<text x="32" y="520" font-size="13" fill="#f4f4f8" text-anchor="start" font-weight="bold">#2  KOTAKBANK</text>
+<line x1="430" x2="430" y1="498" y2="534" stroke="#2a2a48"/>
+<rect x="430" y="502" width="20" height="11" rx="3" fill="#6b6b8a"/>
+<rect x="430" y="517" width="45" height="11" rx="3" fill="#2ecc8f"/>
+<text x="868" y="520" font-size="12.5" fill="#2ecc8f" text-anchor="end" font-weight="normal">+0.54% vs +1.22%  direction right</text>
+<text x="32" y="564" font-size="13" fill="#f4f4f8" text-anchor="start" font-weight="bold">#3  INDIGO</text>
+<line x1="430" x2="430" y1="542" y2="578" stroke="#2a2a48"/>
+<rect x="430" y="546" width="24" height="11" rx="3" fill="#6b6b8a"/>
+<rect x="430" y="561" width="130" height="11" rx="3" fill="#2ecc8f"/>
+<text x="868" y="564" font-size="12.5" fill="#2ecc8f" text-anchor="end" font-weight="normal">+0.67% vs +3.57%  direction right</text>
+<text x="32" y="608" font-size="13" fill="#f4f4f8" text-anchor="start" font-weight="bold">#4  ICICIBANK</text>
+<line x1="430" x2="430" y1="586" y2="622" stroke="#2a2a48"/>
+<rect x="430" y="590" width="20" height="11" rx="3" fill="#6b6b8a"/>
+<rect x="430" y="605" width="125" height="11" rx="3" fill="#2ecc8f"/>
+<text x="868" y="608" font-size="12.5" fill="#2ecc8f" text-anchor="end" font-weight="normal">+0.55% vs +3.44%  direction right</text>
+<text x="32" y="652" font-size="13" fill="#f4f4f8" text-anchor="start" font-weight="bold">#5  JSWSTEEL</text>
+<line x1="430" x2="430" y1="630" y2="666" stroke="#2a2a48"/>
+<rect x="430" y="634" width="17" height="11" rx="3" fill="#6b6b8a"/>
+<rect x="404" y="649" width="26" height="11" rx="3" fill="#ff6b6b"/>
+<text x="868" y="652" font-size="12.5" fill="#ff6b6b" text-anchor="end" font-weight="normal">+0.46% vs -0.72%  direction wrong</text>
+<text x="28" y="694" font-size="11" fill="#9a9ab5" text-anchor="start" font-weight="normal">github.com/NANDAN-CREATOR/nse-llm-picker  |  rebuilt after every nightly run</text>
 </svg>
