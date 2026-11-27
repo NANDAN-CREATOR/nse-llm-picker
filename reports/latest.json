@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T01:53:27.703432+05:30",
+  "generated_at": "2026-11-28T01:39:29.457930+05:30",
   "target_date": "2026-11-26",
   "picks": [
     {
@@ -240,29 +240,94 @@
   ],
   "scorecard": {
     "pick": {
-      "n": 1.0,
-      "direction_hit_rate": 1.0,
-      "avg_p_up_prior": 0.648,
-      "avg_expected_pct": 0.664,
-      "avg_actual_pct": 0.486,
-      "mean_abs_error_pp": 0.178,
-      "avg_alpha_pct": -1.367,
-      "target_hit_rate": 1.0,
-      "stop_hit_rate": 0.0
+      "n": 2.0,
+      "direction_hit_rate": 0.5,
+      "avg_p_up_prior": 0.6739999999999999,
+      "avg_expected_pct": 0.7370000000000001,
+      "avg_actual_pct": -0.641,
+      "mean_abs_error_pp": 1.378,
+      "avg_alpha_pct": -1.694,
+      "target_hit_rate": 0.5,
+      "stop_hit_rate": 0.5
     },
     "shadow": {
-      "n": 4.0,
-      "direction_hit_rate": 0.75,
-      "avg_p_up_prior": 0.635,
-      "avg_expected_pct": 0.555,
-      "avg_actual_pct": 1.8775000000000002,
-      "mean_abs_error_pp": 1.912,
-      "avg_alpha_pct": 0.025249999999999995,
-      "target_hit_rate": 0.75,
-      "stop_hit_rate": 0.25
+      "n": 8.0,
+      "direction_hit_rate": 0.625,
+      "avg_p_up_prior": 0.649125,
+      "avg_expected_pct": 0.6180000000000001,
+      "avg_actual_pct": 0.530875,
+      "mean_abs_error_pp": 1.855375,
+      "avg_alpha_pct": -0.5217499999999999,
+      "target_hit_rate": 0.5,
+      "stop_hit_rate": 0.375
     }
   },
   "history": [
+    {
+      "target_date": "2026-11-26",
+      "rank": 1,
+      "symbol": "ICICIBANK",
+      "exp_ret_pct": 0.81,
+      "act_ret_pct": -1.768,
+      "error_pp": -2.578,
+      "alpha_pct": -2.021,
+      "dir_hit": 0,
+      "target_hit": 0,
+      "stop_hit": 1,
+      "p_up": 0.7
+    },
+    {
+      "target_date": "2026-11-26",
+      "rank": 2,
+      "symbol": "CIPLA",
+      "exp_ret_pct": 0.568,
+      "act_ret_pct": 1.172,
+      "error_pp": 0.604,
+      "alpha_pct": 0.919,
+      "dir_hit": 1,
+      "target_hit": 1,
+      "stop_hit": 0,
+      "p_up": 0.692
+    },
+    {
+      "target_date": "2026-11-26",
+      "rank": 3,
+      "symbol": "INDIGO",
+      "exp_ret_pct": 0.808,
+      "act_ret_pct": -1.661,
+      "error_pp": -2.469,
+      "alpha_pct": -1.914,
+      "dir_hit": 0,
+      "target_hit": 0,
+      "stop_hit": 1,
+      "p_up": 0.669
+    },
+    {
+      "target_date": "2026-11-26",
+      "rank": 4,
+      "symbol": "BAJFINANCE",
+      "exp_ret_pct": 0.79,
+      "act_ret_pct": -2.961,
+      "error_pp": -3.751,
+      "alpha_pct": -3.214,
+      "dir_hit": 0,
+      "target_hit": 0,
+      "stop_hit": 1,
+      "p_up": 0.648
+    },
+    {
+      "target_date": "2026-11-26",
+      "rank": 5,
+      "symbol": "KOTAKBANK",
+      "exp_ret_pct": 0.558,
+      "act_ret_pct": 0.187,
+      "error_pp": -0.371,
+      "alpha_pct": -0.066,
+      "dir_hit": 1,
+      "target_hit": 0,
+      "stop_hit": 0,
+      "p_up": 0.644
+    },
     {
       "target_date": "2026-11-25",
       "rank": 1,
@@ -271,9 +336,9 @@
       "act_ret_pct": 0.486,
       "error_pp": -0.178,
       "alpha_pct": -1.367,
-      "dir_hit": 1.0,
-      "target_hit": 1.0,
-      "stop_hit": 0.0,
+      "dir_hit": 1,
+      "target_hit": 1,
+      "stop_hit": 0,
       "p_up": 0.648
     },
     {
@@ -284,9 +349,9 @@
       "act_ret_pct": 1.223,
       "error_pp": 0.682,
       "alpha_pct": -0.629,
-      "dir_hit": 1.0,
-      "target_hit": 1.0,
-      "stop_hit": 0.0,
+      "dir_hit": 1,
+      "target_hit": 1,
+      "stop_hit": 0,
       "p_up": 0.64
     },
     {
@@ -297,9 +362,9 @@
       "act_ret_pct": 3.567,
       "error_pp": 2.9,
       "alpha_pct": 1.714,
-      "dir_hit": 1.0,
-      "target_hit": 1.0,
-      "stop_hit": 0.0,
+      "dir_hit": 1,
+      "target_hit": 1,
+      "stop_hit": 0,
       "p_up": 0.637
     },
     {
@@ -310,9 +375,9 @@
       "act_ret_pct": 3.437,
       "error_pp": 2.887,
       "alpha_pct": 1.585,
-      "dir_hit": 1.0,
-      "target_hit": 1.0,
-      "stop_hit": 0.0,
+      "dir_hit": 1,
+      "target_hit": 1,
+      "stop_hit": 0,
       "p_up": 0.636
     },
     {
@@ -323,9 +388,9 @@
       "act_ret_pct": -0.717,
       "error_pp": -1.179,
       "alpha_pct": -2.569,
-      "dir_hit": 0.0,
-      "target_hit": 0.0,
-      "stop_hit": 1.0,
+      "dir_hit": 0,
+      "target_hit": 0,
+      "stop_hit": 1,
       "p_up": 0.627
     }
   ],

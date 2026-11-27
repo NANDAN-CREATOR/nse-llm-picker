@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 706" width="900" font-family="Segoe UI, Helvetica, Arial, sans-serif">
 <rect width="900" height="706" rx="14" fill="#0f0f1e"/>
 <text x="28" y="40" font-size="22" fill="#f4f4f8" text-anchor="start" font-weight="bold">NSE LLM Picker</text>
-<text x="28" y="62" font-size="12.5" fill="#9a9ab5" text-anchor="start" font-weight="normal">Top 5 for session 2026-11-26  |  based on close of 2026-11-25  |  updated 2026-11-27 01:53 IST</text>
+<text x="28" y="62" font-size="12.5" fill="#9a9ab5" text-anchor="start" font-weight="normal">Top 5 for session 2026-11-26  |  based on close of 2026-11-25  |  updated 2026-11-28 01:39 IST</text>
 <text x="872" y="40" font-size="11" fill="#9a9ab5" text-anchor="end" font-weight="normal">experiment, not investment advice</text>
 <rect x="16" y="86" width="868" height="224" rx="10" fill="#181830"/>
 <text x="28" y="110" font-size="11.5" fill="#9a9ab5" text-anchor="start" font-weight="bold">#</text>
@@ -70,45 +70,45 @@
 <text x="28" y="338" font-size="17" fill="#f4f4f8" text-anchor="start" font-weight="bold">Expectation vs reality</text>
 <rect x="16" y="352" width="166" height="62" rx="10" fill="#181830"/>
 <text x="30.0" y="374" font-size="11.5" fill="#9a9ab5" text-anchor="start" font-weight="normal">Session scored</text>
-<text x="30.0" y="401" font-size="18" fill="#f4f4f8" text-anchor="start" font-weight="bold">2026-11-25</text>
+<text x="30.0" y="401" font-size="18" fill="#f4f4f8" text-anchor="start" font-weight="bold">2026-11-26</text>
 <rect x="192" y="352" width="166" height="62" rx="10" fill="#181830"/>
 <text x="205.6" y="374" font-size="11.5" fill="#9a9ab5" text-anchor="start" font-weight="normal">Direction right</text>
-<text x="205.6" y="401" font-size="20" fill="#f4f4f8" text-anchor="start" font-weight="bold">4 of 5</text>
+<text x="205.6" y="401" font-size="20" fill="#f4f4f8" text-anchor="start" font-weight="bold">2 of 5</text>
 <rect x="367" y="352" width="166" height="62" rx="10" fill="#181830"/>
 <text x="381.2" y="374" font-size="11.5" fill="#9a9ab5" text-anchor="start" font-weight="normal">Avg expected</text>
-<text x="381.2" y="401" font-size="20" fill="#f4f4f8" text-anchor="start" font-weight="bold">+0.58%</text>
+<text x="381.2" y="401" font-size="20" fill="#f4f4f8" text-anchor="start" font-weight="bold">+0.71%</text>
 <rect x="543" y="352" width="166" height="62" rx="10" fill="#181830"/>
 <text x="556.8" y="374" font-size="11.5" fill="#9a9ab5" text-anchor="start" font-weight="normal">Avg actual</text>
-<text x="556.8" y="401" font-size="20" fill="#f4f4f8" text-anchor="start" font-weight="bold">+1.60%</text>
+<text x="556.8" y="401" font-size="20" fill="#f4f4f8" text-anchor="start" font-weight="bold">-1.01%</text>
 <rect x="718" y="352" width="166" height="62" rx="10" fill="#181830"/>
 <text x="732.4" y="374" font-size="11.5" fill="#9a9ab5" text-anchor="start" font-weight="normal">Avg error</text>
-<text x="732.4" y="401" font-size="20" fill="#f4f4f8" text-anchor="start" font-weight="bold">1.57 pp</text>
-<text x="28" y="432" font-size="12.5" fill="#9a9ab5" text-anchor="start" font-weight="normal">Latest scored picks (2026-11-25): expected (grey) vs actual (colour), % move</text>
+<text x="732.4" y="401" font-size="20" fill="#f4f4f8" text-anchor="start" font-weight="bold">1.95 pp</text>
+<text x="28" y="432" font-size="12.5" fill="#9a9ab5" text-anchor="start" font-weight="normal">Latest scored picks (2026-11-26): expected (grey) vs actual (colour), % move</text>
 <rect x="16" y="442" width="868" height="234" rx="10" fill="#181830"/>
-<text x="32" y="476" font-size="13" fill="#f4f4f8" text-anchor="start" font-weight="bold">#1  SBIN</text>
+<text x="32" y="476" font-size="13" fill="#f4f4f8" text-anchor="start" font-weight="bold">#1  ICICIBANK</text>
 <line x1="430" x2="430" y1="454" y2="490" stroke="#2a2a48"/>
-<rect x="430" y="458" width="24" height="11" rx="3" fill="#6b6b8a"/>
-<rect x="430" y="473" width="18" height="11" rx="3" fill="#2ecc8f"/>
-<text x="868" y="476" font-size="12.5" fill="#2ecc8f" text-anchor="end" font-weight="normal">+0.66% vs +0.49%  direction right</text>
-<text x="32" y="520" font-size="13" fill="#f4f4f8" text-anchor="start" font-weight="bold">#2  KOTAKBANK</text>
+<rect x="430" y="458" width="36" height="11" rx="3" fill="#6b6b8a"/>
+<rect x="352" y="473" width="78" height="11" rx="3" fill="#ff6b6b"/>
+<text x="868" y="476" font-size="12.5" fill="#ff6b6b" text-anchor="end" font-weight="normal">+0.81% vs -1.77%  direction wrong</text>
+<text x="32" y="520" font-size="13" fill="#f4f4f8" text-anchor="start" font-weight="bold">#2  CIPLA</text>
 <line x1="430" x2="430" y1="498" y2="534" stroke="#2a2a48"/>
-<rect x="430" y="502" width="20" height="11" rx="3" fill="#6b6b8a"/>
-<rect x="430" y="517" width="45" height="11" rx="3" fill="#2ecc8f"/>
-<text x="868" y="520" font-size="12.5" fill="#2ecc8f" text-anchor="end" font-weight="normal">+0.54% vs +1.22%  direction right</text>
+<rect x="430" y="502" width="25" height="11" rx="3" fill="#6b6b8a"/>
+<rect x="430" y="517" width="51" height="11" rx="3" fill="#2ecc8f"/>
+<text x="868" y="520" font-size="12.5" fill="#2ecc8f" text-anchor="end" font-weight="normal">+0.57% vs +1.17%  direction right</text>
 <text x="32" y="564" font-size="13" fill="#f4f4f8" text-anchor="start" font-weight="bold">#3  INDIGO</text>
 <line x1="430" x2="430" y1="542" y2="578" stroke="#2a2a48"/>
-<rect x="430" y="546" width="24" height="11" rx="3" fill="#6b6b8a"/>
-<rect x="430" y="561" width="130" height="11" rx="3" fill="#2ecc8f"/>
-<text x="868" y="564" font-size="12.5" fill="#2ecc8f" text-anchor="end" font-weight="normal">+0.67% vs +3.57%  direction right</text>
-<text x="32" y="608" font-size="13" fill="#f4f4f8" text-anchor="start" font-weight="bold">#4  ICICIBANK</text>
+<rect x="430" y="546" width="35" height="11" rx="3" fill="#6b6b8a"/>
+<rect x="357" y="561" width="73" height="11" rx="3" fill="#ff6b6b"/>
+<text x="868" y="564" font-size="12.5" fill="#ff6b6b" text-anchor="end" font-weight="normal">+0.81% vs -1.66%  direction wrong</text>
+<text x="32" y="608" font-size="13" fill="#f4f4f8" text-anchor="start" font-weight="bold">#4  BAJFINANCE</text>
 <line x1="430" x2="430" y1="586" y2="622" stroke="#2a2a48"/>
-<rect x="430" y="590" width="20" height="11" rx="3" fill="#6b6b8a"/>
-<rect x="430" y="605" width="125" height="11" rx="3" fill="#2ecc8f"/>
-<text x="868" y="608" font-size="12.5" fill="#2ecc8f" text-anchor="end" font-weight="normal">+0.55% vs +3.44%  direction right</text>
-<text x="32" y="652" font-size="13" fill="#f4f4f8" text-anchor="start" font-weight="bold">#5  JSWSTEEL</text>
+<rect x="430" y="590" width="35" height="11" rx="3" fill="#6b6b8a"/>
+<rect x="300" y="605" width="130" height="11" rx="3" fill="#ff6b6b"/>
+<text x="868" y="608" font-size="12.5" fill="#ff6b6b" text-anchor="end" font-weight="normal">+0.79% vs -2.96%  direction wrong</text>
+<text x="32" y="652" font-size="13" fill="#f4f4f8" text-anchor="start" font-weight="bold">#5  KOTAKBANK</text>
 <line x1="430" x2="430" y1="630" y2="666" stroke="#2a2a48"/>
-<rect x="430" y="634" width="17" height="11" rx="3" fill="#6b6b8a"/>
-<rect x="404" y="649" width="26" height="11" rx="3" fill="#ff6b6b"/>
-<text x="868" y="652" font-size="12.5" fill="#ff6b6b" text-anchor="end" font-weight="normal">+0.46% vs -0.72%  direction wrong</text>
+<rect x="430" y="634" width="24" height="11" rx="3" fill="#6b6b8a"/>
+<rect x="430" y="649" width="8" height="11" rx="3" fill="#2ecc8f"/>
+<text x="868" y="652" font-size="12.5" fill="#2ecc8f" text-anchor="end" font-weight="normal">+0.56% vs +0.19%  direction right</text>
 <text x="28" y="694" font-size="11" fill="#9a9ab5" text-anchor="start" font-weight="normal">github.com/NANDAN-CREATOR/nse-llm-picker  |  rebuilt after every nightly run</text>
 </svg>
